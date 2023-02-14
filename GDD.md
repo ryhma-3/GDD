@@ -5,9 +5,12 @@ This document is intended as an initial outline of our game. Further changes may
 ## 1. Title Page
 ### 1.1. Game Name						
 ## 2. Game Overview
-### 2.1. Game Concept		Rpg with turn based combat
-### 2.2. Target Audience		Fans of classic RPGs
-### 2.3. Genre(s)			Rpg 
+### 2.1. Game Concept		
+Rpg with turn based combat
+### 2.2. Target Audience		
+Fans of classic RPGs
+### 2.3. Genre(s)		
+Rpg 
 ### 2.4. Game Flow Summary – How does the player move through the game? Include both the interface and the game itself. 
 
 The player controls a small character in a game environment that has a top down perspective. 
