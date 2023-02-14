@@ -13,21 +13,26 @@ Fans of classic RPGs
 ### 2.3. Genre(s)		
 Rpg 
 ### 2.4. Game Flow Summary – How does the player move through the game? Include both the interface and the game itself. 
-
 The player controls a small character in a game environment that has a top down perspective. 
-
 ### 2.5. Look and Feel – What is the basic look and feel of the game? What is the visual style?
 A classic 2d rpg, 
 ## 3. Gameplay
 The character moves and interacts with others on the world map and switches to a combat screen during battle. Each area has a certain amount of trash mobs and a boss. 
-### 3.1. Objectives – What are the objectives of the game? 	Beating enemies,and advancing the story. 
-### 3.2. Game Progression Beating a certain set of monsters unlocks a boss. Beating this boss unlocks the next set of monsters and the next boss etc. 					
-### 3.3. Play Flow – How does the game flow for the game player The player advances the story by exploring the map and beating bosses
-### 3.4. Mission/challenge Structure Leveling up unlocks certain areas
+### 3.1. Objectives – What are the objectives of the game? 	
+Beating enemies,and advancing the story. 
+### 3.2. Game Progression Beating a certain set of monsters unlocks a boss. 
+Beating this boss unlocks the next set of monsters and the next boss etc. 					
+### 3.3. Play Flow – How does the game flow for the game player 
+The player advances the story by exploring the map and beating bosses
+### 3.4. Mission/challenge Structure 
+Leveling up unlocks certain areas
 
 ## 4. Mechanics (Key Section)
-### 4.1. Rules – What are the rules to the game, both implicit and explicit. Combat- Each combattant gets one move per turn. Turns alternate. Freedom of movement throughout the map is dictated by your progress. 
-### 4.2. Model of the game universe. Think of it as a simulation of a world, how do all the pieces interact? The player chooses whether to interact with an enemy or an npc.
+### 4.1. Rules – What are the rules to the game, both implicit and explicit. 
+Combat- Each combattant gets one move per turn. 
+Turns alternate. Freedom of movement throughout the map is dictated by your progress. 
+### 4.2. Model of the game universe. Think of it as a simulation of a world, how do all the pieces interact? 
+The player chooses whether to interact with an enemy or an npc.
 ### 4.3. Physics – How does the physical universe work? 
 Collision is on, mechanics take inspiration from real life. 
 ### 4.4. Economy – What is the economy of the game? How does it work?
