@@ -28,14 +28,16 @@ The character moves and interacts with others on the world map and switches to a
 ## 4. Mechanics (Key Section)
 ### 4.1. Rules – What are the rules to the game, both implicit and explicit. Combat- Each combattant gets one move per turn. Turns alternate. Freedom of movement throughout the map is dictated by your progress. 
 ### 4.2. Model of the game universe. Think of it as a simulation of a world, how do all the pieces interact? The player chooses whether to interact with an enemy or an npc.
-### 4.3. Physics – How does the physical universe work? Collision is on, mechanics take inspiration from real life. 
+### 4.3. Physics – How does the physical universe work? 
+Collision is on, mechanics take inspiration from real life. 
 ### 4.4. Economy – What is the economy of the game? How does it work?
 None planned, might add if there is time
 ### 4.5. Character movement in the game 
 horizontal and vertical on a gridlike pattern
 ### 4.6. Objects – how to pick them up and move them 
 No objects planned, might add if there is time.
-### 4.7. Actions, including whatever switches and buttons are used, interacting with objects, and what means of communication are used. One button for interactions, during combat a menu with different actions opens. 
+### 4.7. Actions, including whatever switches and buttons are used, interacting with objects, and what means of communication are used. 
+One button for interactions, during combat a menu with different actions opens. 
 
 ### 4.8. Combat – If there is combat or even conflict, how is this specifically modeled?
 Turn based combat where there are two attacks available to the player. A normal attack with 100% accuracy and a heavy attack with 70% accuracy.
@@ -49,16 +51,26 @@ Save state system.
 No cheats planned but might add an easter egg.
 
 ## 5. Story and Narrative
-### 5.1. Backstory There's a dark lord. He has been creating and turning people into monsters. He created the hero of our story aswell, but due to his mistake, she became good. Now her objective is to end her creator's evil even though that will mean the end of her. 
+### 5.1. Backstory 
+There's a dark lord. He has been creating and turning people into monsters. 
+He created the hero of our story aswell, but due to his mistake, she became good. 
+Now her objective is to end her creator's evil even though that will mean the end of her. 
 ### 5.2. Plot elements
+To be determined
 ### 5.3. Game story progression
+To be determined
 ### 5.4. Cut scenes -- descriptions include the actors, the setting, and the storyboard or script.
+To be determined
 
 ## 6. Game World
-### 6.1. General look and feel of world medieval european fantasy landscape
-### 6.2. Areas four areas planned; grassland,woodland , mountain, village
+### 6.1. General look and feel of world 
+medieval european fantasy landscape
+### 6.2. Areas 
+four areas planned; grassland,woodland , mountain, village
 ### 6.2.1.General description and physical characteristics
-### 6.2.2.How relate to the rest of the world The village is surrounded by grassland. Moving further away , the player finds a forest and later a mountain side. 
+To be determined
+### 6.2.2.How relate to the rest of the world 
+The village is surrounded by grassland. Moving further away , the player finds a forest and later a mountain side. 
 ### 6.2.2.1. What levels use it
 Level 1: grassland
 Level 2: woodland
@@ -66,21 +78,10 @@ Level 3: mountain
 ### 6.2.2.2. Connections to other areas
 pathways that are sealed at the start. 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## 7. Characters.
 ### 7.1. For each character
-Kira- main character; flawed creation of the dark lord. Cares for the townspeople and wants to save them. Kind and hardworking. 
+Kira- main character; flawed creation of the dark lord. 
+Cares for the townspeople and wants to save them. Kind and hardworking. 
 ### 7.1.1.Back story
  creation of the dark lord. Has been living in the village for some time. 
 ### 7.1.2.Personality
@@ -117,22 +118,18 @@ no interaction possible except with player characters.
 
 
 
-
-
-
-
-
-
-
-
 ## 8. Levels
 ### 8.1. Training Level
 no need for a training level
 ### 8.2. For each level
 There are three levels
-level 1: the player only has one basic skill. There are a few mobs and an easy boss.
-level 2: the player has unlocked a second skill. There are the same amount of mobs and a boss that is harder than the first.
-level 3: the player has unlocked all skills. There are mobs and a hard boss after them. This time the player fights the dark lord after the boss. The dark lord is a very hard fight. 
+level 1: the player only has one basic skill. 
+There are a few mobs and an easy boss.
+level 2: the player has unlocked a second skill. 
+There are the same amount of mobs and a boss that is harder than the first.
+level 3: the player has unlocked all skills. 
+There are mobs and a hard boss after them. 
+This time the player fights the dark lord after the boss. The dark lord is a very hard fight. 
 ### 8.2.1.Synopsis
 Starting zone: village
 level 1: grass area that surrounds the village
