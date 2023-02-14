@@ -3,7 +3,8 @@
 This document is intended as an initial outline of our game. Further changes may occur. 
 
 ## 1. Title Page
-### 1.1. Game Name						
+### 1.1. Game Name			
+Kira
 ## 2. Game Overview
 ### 2.1. Game Concept		
 Rpg with turn based combat
