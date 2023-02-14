@@ -107,7 +107,7 @@ village npcs(if added)
 ### 7.1. For each character
 Dark Lord; came suddenly to this world and created everything bad in it. 
 ### 7.1.1.Back story
-??
+Very mysterious figure. Not much is known about him.
 ### 7.1.3.Appearance
 A big demon with a skull-like head that floats in the air.
 ### 7.1.4.Abilities
